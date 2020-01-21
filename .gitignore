@@ -117,4 +117,7 @@ app/dist
 app/main.js
 app/main.js.map
 
+# Firebase
+firebase.js
+
 # End of https://www.gitignore.io/api/node,macos
